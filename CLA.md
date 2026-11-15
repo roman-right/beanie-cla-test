@@ -33,3 +33,5 @@ The check in the pull request compares a hash of the file `CLA.md`. When the tex
 **10. Stopping.** You can stop contributing at any time. This agreement keeps its effect for what You submitted before.
 
 **How to agree.** Open the signing page (the check in Your pull request has the link). Sign in with GitHub, read this text, type Your full name, tick the box "I have read the Beanie Contributor License Agreement and I agree to it." and press Sign. That is Your electronic signature. The agreement takes effect at that moment. You sign once. You sign again only when this text changes.
+
+Test change of the agreement text, 2026-11-15.
